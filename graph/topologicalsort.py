@@ -1,5 +1,6 @@
 #topological sort
 # java code https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TopologicalSort.java
+#totpological sortings are not unique
 
 from graph import Graph
 
